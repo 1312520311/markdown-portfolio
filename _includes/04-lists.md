@@ -1,0 +1,3 @@
+* Sing
+* Dance
+* Rap
